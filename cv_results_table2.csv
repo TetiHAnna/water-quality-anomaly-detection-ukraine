@@ -1,0 +1,5 @@
+Indicator,Model,n,Sites,"R², mean ± SD","RMSE, mean ± SD"
+Nitrogen / Azot,Random Forest,2570,104,0.975 ± 0.020,0.914 ± 0.383
+Nitrogen / Azot,XGBoost,2570,104,0.980 ± 0.025,0.741 ± 0.618
+Dissolved oxygen / Kisen,Random Forest,4295,225,0.897 ± 0.028,0.714 ± 0.119
+Dissolved oxygen / Kisen,XGBoost,4295,225,0.912 ± 0.037,0.655 ± 0.161
