@@ -30,8 +30,6 @@ The original monitoring data were obtained from the State Water Resources Agency
 
 ## Reproducibility
 
-## Reproducibility
-
 Run:
 
 ```bash
